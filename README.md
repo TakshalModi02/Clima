@@ -1,16 +1,7 @@
-# clima
+# Clima
 
-A new Flutter project.
+* This application provides weather data based on the locaiton of the user as well as the city name provided by the user.
 
-## Getting Started
+## About Clima
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Clima uses Open Weather API for fetching weather data from the internet and using flutter I had designed the front end of the applicaiton.
